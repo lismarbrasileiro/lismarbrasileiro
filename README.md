@@ -1,5 +1,5 @@
-- 👋 Olá eu sou o Lismar Brasileiro
-- 🌱 Front-End Developer, cogitando ir pra área de análise de dados 
+- 👋 Olá, eu sou o Lismar
+- 🌱 Front-End Developer
 - 📖 Estudando Análise e Desenvovimento de Sistemas
 - 😄 Pronomes: Ele/Dele
 
